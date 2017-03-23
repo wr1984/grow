@@ -1,0 +1,24 @@
+{
+  "name": "grow",
+  "authors": [
+    "rui.wang <wangrui.mail@qq.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "keywords": [
+    "grow"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Snap.svg": "snap.svg#^0.5.1"
+  }
+}
